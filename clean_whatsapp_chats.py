@@ -2,7 +2,6 @@ import pickle
 import random
 import sys
 import os
-
 chat_file = sys.argv[1]
 
 f = open(chat_file,'r', encoding="utf8")
