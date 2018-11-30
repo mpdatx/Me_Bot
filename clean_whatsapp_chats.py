@@ -1,6 +1,7 @@
 import pickle
 import random
 import sys
+import os
 
 chat_file = sys.argv[1]
 
